@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+
+# Deployment bundle (regenerate locally)
+backend/bug-tracker-backend.zip
